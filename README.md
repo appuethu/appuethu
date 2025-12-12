@@ -88,14 +88,10 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=appuethu&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appuethu&theme=radical" alt="GitHub streak" height="160" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=appuethu&show_icons=true&theme=radical)
+![GitHub streak](https://streak-stats.demolab.com/?user=appuethu&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appuethu&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyathaaMohan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=appuethu&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
 <p align="center">
