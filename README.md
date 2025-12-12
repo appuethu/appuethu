@@ -98,11 +98,9 @@
 </p>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=appuethu&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/appuethu/appuethu/main/codolio_card.png" width="300px">
 </p>
-
 
 ---
 
