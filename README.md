@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DhanyathaaMohan/DhanyathaaMohan/afb5d6c59c3084274a1e5679616913d653094d46/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" alt="Dhanyathaa Mohan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/appuethu/appuethu/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" width="100%" alt="Ethu Krishna Banner" />
 </p>
 
 
