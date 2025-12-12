@@ -1,24 +1,110 @@
-# 💫 About Me:
-<br>Hi! I'm Ethu Krishna, a developer passionate about problem solving, algorithms, and writing efficient, clean code.<br>I enjoy tackling challenging logic problems, optimizing solutions, and improving my skills in data structures and algorithmic thinking.<br><br>What I Love<br><br>Competitive programming<br><br> Data Structures & Algorithms<br><br> Solving coding challenges<br><br> Optimizing algorithms for better time & space complexity<br><br> Writing clean and readable code
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DhanyathaaMohan/DhanyathaaMohan/afb5d6c59c3084274a1e5679616913d653094d46/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" alt="Dhanyathaa Mohan Banner" width="100%" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ethukrishna-s-21a2672a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.am19@gmail.com) 
+<h1 align="center">Hi, I'm Ethukrishna</h1>
+<h3 align="center">AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
-#  Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=appuethu&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=appuethu&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=appuethu&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=250&size=8&pause=500&color=7E3ACE&center=true&vCenter=true&width=300&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Open+Source+Contributor;DSA+Learner" alt="Typing SVG" />
+</p>
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=appuethu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=appuethu&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=appuethu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me  
+<p align="center">
+  I’m a passionate <strong>Artificial Intelligence & Machine Learning student</strong> pursuing my <strong>B.E. in AIML</strong> at <em>KIT – Kalaignar Karunanidhi Institute of Technology</em>.
+</p>
+
+<p align="center">
+  Focused on <strong>solving complex problems</strong>, <strong>building intelligent systems</strong>, and applying technology for <strong>real-world impact</strong>.
+</p>
+
+<p align="center">
+   Currently expanding expertise in
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-🤖-blue?style=for-the-badge&logo=artificial-intelligence">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-💻-green?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/DSA-🧠-yellow?style=for-the-badge&logo=leetcode">
+</p>
+
+<p align="center">
+   Always eager to <strong>collaborate, learn, and innovate</strong> with like-minded developers.
+</p>
+  
+
+
+---
+
+## Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Development & Frameworks
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Server & Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230077B5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ethukrishna-s-21a2672a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/711523bam019/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/kit23ban019" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="mailto:kit27.am19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanyathaaMohan&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanyathaaMohan&theme=radical" alt="GitHub streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyathaaMohan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanyathaaMohan&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
+
+<p align="center">
+  <img src="https://github.com/DhanyathaaMohan/DhanyathaaMohan/blob/c87ddd315a53d45bdb0088e1dd207074433e994f/profileCard.png" alt="Codolio Card" width="20%" height="20%" />
+</p>
+---
+
+### Fun Quote
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+
